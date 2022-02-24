@@ -1,6 +1,7 @@
 @CHARSET "UTF-8";
 
 .joubel-message-dialog {
+  font-family: 'Roboto', sans-serif;
   position: absolute;
   bottom: 0;
   left: 0;

@@ -1,6 +1,7 @@
 @CHARSET "UTF-8";
 
 .joubel-speech-bubble {
+  font-family: 'Roboto', sans-serif;
   position: absolute;
   color: #333;
   z-index: 301;

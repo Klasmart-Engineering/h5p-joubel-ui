@@ -3,6 +3,7 @@
   display: -webkit-inline-flexbox;
   display: -ms-inline-flexbox;
   display: -webkit-inline-flex;
+  font-family: 'Roboto', sans-serif;
   width: 15em;
   max-width: 100%;
   background: #fff;
